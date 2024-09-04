@@ -22,6 +22,7 @@ cycler==0.11.0
 debugpy==1.6.7
 decorator==5.1.1
 defusedxml==0.7.1
+exceptiongroup==1.2.2
 executing==1.2.0
 fastjsonschema==2.20.0
 flake8==6.0.0
@@ -112,6 +113,7 @@ stack-data==0.6.2
 terminado==0.18.1
 threadpoolctl==3.1.0
 tinycss2==1.3.0
+tomli==2.0.1
 tornado==6.3.2
 traitlets==5.13.0
 types-python-dateutil==2.9.0.20240821
