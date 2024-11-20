@@ -130,6 +130,8 @@ ENV/
 env.bak/
 venv.bak/
 
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -163,6 +165,7 @@ cython_debug/
 
 # datasets
 datasets/
+data/
 
 # VS Code 
 .vscode/
